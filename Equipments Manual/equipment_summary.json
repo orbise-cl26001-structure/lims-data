@@ -1,0 +1,650 @@
+[
+    {
+        "id": "accelerated_curing_tank",
+        "name": "Accelerated Curing Tank",
+        "cover_image": "https://placehold.co/600x400?text=Accelerated+Curing+Tank",
+        "description": "Manual for Accelerated Curing Tank.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Accelerated Curing Tank.pdf"
+            }
+        ]
+    },
+    {
+        "id": "acoustic_emission",
+        "name": "Acoustic Emission",
+        "cover_image": "https://placehold.co/600x400?text=Acoustic+Emission",
+        "description": "Manual for Acoustic Emission.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Acoustic Emission.pdf"
+            }
+        ]
+    },
+    {
+        "id": "aggeregate_impect_tester",
+        "name": "Aggeregate Impect Tester",
+        "cover_image": "https://placehold.co/600x400?text=Aggeregate+Impect+Tester",
+        "description": "Manual for Aggeregate Impect Tester.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Aggeregate Impect Tester.pdf"
+            }
+        ]
+    },
+    {
+        "id": "air_entertainment_meter",
+        "name": "Air Entertainment  Meter",
+        "cover_image": "https://placehold.co/600x400?text=Air+Entertainment++Meter",
+        "description": "Manual for Air Entertainment  Meter.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Air Entertainment  Meter (1).pdf"
+            }
+        ]
+    },
+    {
+        "id": "air_permeability",
+        "name": "Air Permeability",
+        "cover_image": "https://placehold.co/600x400?text=Air+Permeability",
+        "description": "Manual for Air Permeability.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Air Permeability.pdf"
+            }
+        ]
+    },
+    {
+        "id": "buoyancy_balance",
+        "name": "Buoyancy Balance",
+        "cover_image": "https://placehold.co/600x400?text=Buoyancy+Balance",
+        "description": "Manual for Buoyancy Balance.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Buoyancy Balance.pdf"
+            }
+        ]
+    },
+    {
+        "id": "ctm",
+        "name": "CTM",
+        "cover_image": "https://placehold.co/600x400?text=CTM",
+        "description": "Manual for CTM.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/CTM.pdf"
+            }
+        ]
+    },
+    {
+        "id": "climatic_test_chamber",
+        "name": "Climatic Test Chamber",
+        "cover_image": "https://placehold.co/600x400?text=Climatic+Test+Chamber",
+        "description": "Manual for Climatic Test Chamber.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Climatic Test Chamber.pdf"
+            }
+        ]
+    },
+    {
+        "id": "column_apparatus",
+        "name": "Column Apparatus",
+        "cover_image": "https://placehold.co/600x400?text=Column+Apparatus",
+        "description": "Manual for Column Apparatus.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Column Apparatus.pdf"
+            }
+        ]
+    },
+    {
+        "id": "corrosion_analyser",
+        "name": "Corrosion Analyser",
+        "cover_image": "https://placehold.co/600x400?text=Corrosion+Analyser",
+        "description": "Manual for Corrosion Analyser.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Corrosion Analyser.pdf"
+            }
+        ]
+    },
+    {
+        "id": "deflection_of_truss",
+        "name": "Deflection of Truss",
+        "cover_image": "https://placehold.co/600x400?text=Deflection+of+Truss",
+        "description": "Manual for Deflection of Truss.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Deflection of Truss.pdf"
+            }
+        ]
+    },
+    {
+        "id": "deflection_of_beam",
+        "name": "Deflection of beam",
+        "cover_image": "https://placehold.co/600x400?text=Deflection+of+beam",
+        "description": "Manual for Deflection of beam.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Deflection of beam.pdf"
+            }
+        ]
+    },
+    {
+        "id": "fatigue_testing_machine",
+        "name": "Fatigue Testing Machine",
+        "cover_image": "https://placehold.co/600x400?text=Fatigue+Testing+Machine",
+        "description": "Manual for Fatigue Testing Machine.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Fatigue Testing Machine.pdf"
+            }
+        ]
+    },
+    {
+        "id": "gas_gun_setup_for_impact_loading",
+        "name": "Gas-Gun Setup for Impact Loading",
+        "cover_image": "https://placehold.co/600x400?text=Gas-Gun+Setup+for+Impact+Loading",
+        "description": "Manual for Gas-Gun Setup for Impact Loading.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Gas-Gun Setup for Impact Loading.pdf"
+            }
+        ]
+    },
+    {
+        "id": "humidity_chamber",
+        "name": "Humidity Chamber",
+        "cover_image": "https://placehold.co/600x400?text=Humidity+Chamber",
+        "description": "Manual for Humidity Chamber.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Humidity Chamber.pdf"
+            }
+        ]
+    },
+    {
+        "id": "ids_georadar",
+        "name": "IDS GeoRadar",
+        "cover_image": "https://placehold.co/600x400?text=IDS+GeoRadar",
+        "description": "Manual for IDS GeoRadar.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/IDS GeoRadar.pdf"
+            }
+        ]
+    },
+    {
+        "id": "l_box",
+        "name": "L- Box",
+        "cover_image": "https://placehold.co/600x400?text=L-+Box",
+        "description": "Manual for L- Box.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/L- Box.pdf"
+            }
+        ]
+    },
+    {
+        "id": "low_velocity_impect_testing_machine",
+        "name": "Low Velocity Impect Testing Machine",
+        "cover_image": "https://placehold.co/600x400?text=Low+Velocity+Impect+Testing+Machine",
+        "description": "Manual for Low Velocity Impect Testing Machine.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Low Velocity Impect Testing Machine.pdf"
+            }
+        ]
+    },
+    {
+        "id": "motorised_sieve_shaker",
+        "name": "Motorised Sieve Shaker",
+        "cover_image": "https://placehold.co/600x400?text=Motorised+Sieve+Shaker",
+        "description": "Manual for Motorised Sieve Shaker.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Motorised Sieve Shaker.pdf"
+            }
+        ]
+    },
+    {
+        "id": "pull_off_tester",
+        "name": "PUll off Tester",
+        "cover_image": "https://placehold.co/600x400?text=PUll+off+Tester",
+        "description": "Manual for PUll off Tester.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/PUll off Tester.pdf"
+            }
+        ]
+    },
+    {
+        "id": "portal_frame",
+        "name": "Portal Frame",
+        "cover_image": "https://placehold.co/600x400?text=Portal+Frame",
+        "description": "Manual for Portal Frame.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Portal Frame.pdf"
+            }
+        ]
+    },
+    {
+        "id": "profometer_operating_instructions",
+        "name": "Profometer_Operating Instructions_English_high",
+        "cover_image": "https://placehold.co/600x400?text=Profometer",
+        "description": "Manual for Profometer.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Profometer_Operating Instructions_English_high.pdf"
+            }
+        ]
+    },
+    {
+        "id": "rebound_hammer",
+        "name": "Rebound Hammer",
+        "cover_image": "https://placehold.co/600x400?text=Rebound+Hammer",
+        "description": "Manual for Rebound Hammer.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Rebound Hammer.pdf"
+            }
+        ]
+    },
+    {
+        "id": "slump_test",
+        "name": "Slump test",
+        "cover_image": "https://placehold.co/600x400?text=Slump+test",
+        "description": "Manual for Slump test.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Slump test.pdf"
+            }
+        ]
+    },
+    {
+        "id": "suspension_bridge",
+        "name": "Suspension Bridge",
+        "cover_image": "https://placehold.co/600x400?text=Suspension+Bridge",
+        "description": "Manual for Suspension Bridge.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Suspension Bridge.pdf"
+            }
+        ]
+    },
+    {
+        "id": "three_hinged_arch",
+        "name": "Three Hinged Arch",
+        "cover_image": "https://placehold.co/600x400?text=Three+Hinged+Arch",
+        "description": "Manual for Three Hinged Arch.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Three Hinged Arch.pdf"
+            }
+        ]
+    },
+    {
+        "id": "two_hinged_arch_apparatus",
+        "name": "Two Hinged Arch Apparatus",
+        "cover_image": "https://placehold.co/600x400?text=Two+Hinged+Arch+Apparatus",
+        "description": "Manual for Two Hinged Arch Apparatus.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Two Hinged Arch Apparatus.pdf"
+            }
+        ]
+    },
+    {
+        "id": "u_box",
+        "name": "U- Box",
+        "cover_image": "https://placehold.co/600x400?text=U-+Box",
+        "description": "Manual for U- Box.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/U- Box.pdf"
+            }
+        ]
+    },
+    {
+        "id": "upv",
+        "name": "UPV",
+        "cover_image": "https://placehold.co/600x400?text=UPV",
+        "description": "Manual for UPV.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/UPV.pdf"
+            }
+        ]
+    },
+    {
+        "id": "utm_machine",
+        "name": "UTM Machine",
+        "cover_image": "https://placehold.co/600x400?text=UTM+Machine",
+        "description": "Manual for UTM Machine.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/UTM Machine.pdf"
+            }
+        ]
+    },
+    {
+        "id": "v_funnel",
+        "name": "V-Funnel",
+        "cover_image": "https://placehold.co/600x400?text=V-Funnel",
+        "description": "Manual for V-Funnel.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/V-Funnel.pdf"
+            }
+        ]
+    },
+    {
+        "id": "vee_bee_consistometer",
+        "name": "Vee-Bee Consistometer",
+        "cover_image": "https://placehold.co/600x400?text=Vee-Bee+Consistometer",
+        "description": "Manual for Vee-Bee Consistometer.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Vee-Bee Consistometer.pdf"
+            }
+        ]
+    },
+    {
+        "id": "vibrating_machine",
+        "name": "Vibrating Machine",
+        "cover_image": "https://placehold.co/600x400?text=Vibrating+Machine",
+        "description": "Manual for Vibrating Machine.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Vibrating Machine.pdf"
+            }
+        ]
+    },
+    {
+        "id": "vibrating_table",
+        "name": "Vibrating Table",
+        "cover_image": "https://placehold.co/600x400?text=Vibrating+Table",
+        "description": "Manual for Vibrating Table.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/Vibrating Table.pdf"
+            }
+        ]
+    },
+    {
+        "id": "resipod_resistivity_meter",
+        "name": "resipod Resistivity Meter",
+        "cover_image": "https://placehold.co/600x400?text=resipod+Resistivity+Meter",
+        "description": "Manual for resipod Resistivity Meter.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/resipod Resistivity Meter.pdf"
+            }
+        ]
+    },
+    {
+        "id": "vicat_apparatus",
+        "name": "vicat apparatus",
+        "cover_image": "https://placehold.co/600x400?text=vicat+apparatus",
+        "description": "Manual for vicat apparatus.",
+        "manufacturer": "Unknown",
+        "model": "Standard",
+        "specifications": {},
+        "functionality": [],
+        "research_projects": [],
+        "gallery": [],
+        "technical_drawings": [
+            {
+                "title": "Manual PDF",
+                "file": "/src/assets/Equipments Manual/vicat apparatus.pdf"
+            }
+        ]
+    }
+]
