@@ -1,0 +1,296 @@
+Folder PATH listing
+Volume serial number is CC03-C1C5
+C:.
+�   deatils
+�   faculty.json
+�   file.txt
+�   
++---Equipments Manual
+�       Accelerated Curing Tank.pdf
+�       Acoustic Emission.pdf
+�       Aggeregate Impect Tester.pdf
+�       Air Entertainment  Meter (1).pdf
+�       Air Permeability.pdf
+�       Buoyancy Balance.pdf
+�       Climatic Test Chamber.pdf
+�       Column Apparatus.pdf
+�       Corrosion Analyser.pdf
+�       CTM.pdf
+�       Deflection of beam.pdf
+�       Deflection of Truss (1).pdf
+�       Deflection of Truss.pdf
+�       equipment_summary.json
+�       Fatigue Testing Machine.pdf
+�       Gas-Gun Setup for Impact Loading.pdf
+�       Humidity Chamber.pdf
+�       IDS GeoRadar.pdf
+�       L- Box.pdf
+�       Low Velocity Impect Testing Machine.pdf
+�       Motorised Sieve Shaker.pdf
+�       Portal Frame (1).pdf
+�       Portal Frame.pdf
+�       Profometer_Operating Instructions_English_high.pdf
+�       PUll off Tester.pdf
+�       Rebound Hammer.pdf
+�       resipod Resistivity Meter.pdf
+�       Slump test.pdf
+�       Suspension Bridge.pdf
+�       Three Hinged Arch.pdf
+�       Two Hinged Arch Apparatus.pdf
+�       U- Box.pdf
+�       UPV.pdf
+�       UTM Machine.pdf
+�       V-Funnel.pdf
+�       Vee-Bee Consistometer.pdf
+�       Vibrating Machine.pdf
+�       Vibrating Table.pdf
+�       vicat apparatus.pdf
+�       
++---Image
+�       IMG_9392.JPG
+�       IMG_9393.JPG
+�       IMG_9394.JPG
+�       IMG_9395.JPG
+�       IMG_9396.JPG
+�       IMG_9397.JPG
+�       IMG_9398.JPG
+�       IMG_9400.JPG
+�       IMG_9401.JPG
+�       IMG_9402.JPG
+�       IMG_9403.JPG
+�       IMG_9404.JPG
+�       IMG_9409.JPG
+�       IMG_9411.JPG
+�       IMG_9412.JPG
+�       IMG_9413.JPG
+�       IMG_9417.JPG
+�       IMG_9418.JPG
+�       IMG_9419.JPG
+�       IMG_9420.JPG
+�       IMG_9421.JPG
+�       IMG_9422.JPG
+�       IMG_9423.JPG
+�       IMG_9424.JPG
+�       IMG_9425.JPG
+�       IMG_9426.JPG
+�       IMG_9427.JPG
+�       IMG_9428.JPG
+�       IMG_9429.JPG
+�       IMG_9430.JPG
+�       IMG_9431.JPG
+�       IMG_9432.JPG
+�       IMG_9433.JPG
+�       IMG_9434.JPG
+�       IMG_9435.JPG
+�       IMG_9437.JPG
+�       IMG_9438.JPG
+�       IMG_9439.JPG
+�       IMG_9440.JPG
+�       IMG_9441.JPG
+�       IMG_9442.JPG
+�       IMG_9443.JPG
+�       IMG_9444.JPG
+�       IMG_9445.JPG
+�       IMG_9446.JPG
+�       IMG_9447.JPG
+�       IMG_9448.JPG
+�       IMG_9449.JPG
+�       IMG_9450.JPG
+�       IMG_9451.JPG
+�       IMG_9452.JPG
+�       IMG_9453.JPG
+�       IMG_9455.JPG
+�       IMG_9456.JPG
+�       IMG_9457.JPG
+�       IMG_9458.JPG
+�       IMG_9459.JPG
+�       IMG_9460.JPG
+�       IMG_9461.JPG
+�       IMG_9462.JPG
+�       IMG_9463.JPG
+�       IMG_9464.JPG
+�       IMG_9465.JPG
+�       IMG_9466.JPG
+�       IMG_9467.JPG
+�       IMG_9468.JPG
+�       IMG_9469.JPG
+�       IMG_9470.JPG
+�       IMG_9471.JPG
+�       IMG_9472.JPG
+�       IMG_9473.JPG
+�       IMG_9474.JPG
+�       IMG_9475.JPG
+�       IMG_9476.JPG
+�       IMG_9477.JPG
+�       IMG_9478.JPG
+�       IMG_9479.JPG
+�       IMG_9480.JPG
+�       IMG_9481.JPG
+�       IMG_9482.JPG
+�       IMG_9483.JPG
+�       IMG_9484.JPG
+�       IMG_9485.JPG
+�       IMG_9486.JPG
+�       IMG_9487.JPG
+�       IMG_9488.JPG
+�       IMG_9489.JPG
+�       IMG_9490.JPG
+�       IMG_9491.JPG
+�       IMG_9492.JPG
+�       IMG_9493.JPG
+�       IMG_9494.JPG
+�       IMG_9495.JPG
+�       IMG_9496.JPG
+�       IMG_9497.JPG
+�       IMG_9498.JPG
+�       IMG_9499.JPG
+�       IMG_9500.JPG
+�       IMG_9501.JPG
+�       IMG_9502.JPG
+�       IMG_9503.JPG
+�       IMG_9504.JPG
+�       IMG_9505.JPG
+�       IMG_9506.JPG
+�       IMG_9507.JPG
+�       IMG_9508.JPG
+�       IMG_9509.JPG
+�       IMG_9510.JPG
+�       IMG_9511.JPG
+�       IMG_9512.JPG
+�       IMG_9513.JPG
+�       IMG_9514.JPG
+�       IMG_9515.JPG
+�       IMG_9516.JPG
+�       IMG_9517.JPG
+�       IMG_9518.JPG
+�       IMG_9519.JPG
+�       IMG_9520.JPG
+�       IMG_9521.JPG
+�       IMG_9522.JPG
+�       IMG_9523.JPG
+�       IMG_9524.JPG
+�       IMG_9525.JPG
+�       IMG_9526.JPG
+�       IMG_9527.JPG
+�       IMG_9528.JPG
+�       IMG_9529.JPG
+�       IMG_9530.JPG
+�       IMG_9531.JPG
+�       IMG_9532.JPG
+�       IMG_9533.JPG
+�       IMG_9534.JPG
+�       IMG_9535.JPG
+�       IMG_9536.JPG
+�       IMG_9537.JPG
+�       IMG_9538.JPG
+�       IMG_9539.JPG
+�       IMG_9540.JPG
+�       IMG_9541.JPG
+�       IMG_9542.JPG
+�       IMG_9543.JPG
+�       
++---Structure
+    �   .env
+    �   .gitignore
+    �   eslint.config.js
+    �   index.html
+    �   package-lock.json
+    �   package.json
+    �   README.md
+    �   tsconfig.app.json
+    �   tsconfig.json
+    �   tsconfig.node.json
+    �   vite.config.ts
+    �   
+   
+    +---public
+    �   �   logo.svg
+    �   �   logo2.svg
+    �   �   
+    �   +---docs
+    �           Sem.xlsx
+    �           test.docx
+    �           test.pptx
+    �           
+    +---src
+        �   App.css
+        �   App.tsx
+        �   main.tsx
+        �   vite-env.d.ts
+        �   
+        +---about
+        �       About.css
+        �       About.tsx
+        �       
+        +---assets
+        �   +---facilities
+        �   �       facilities.json
+        �   �       
+        �   +---misc
+        �   �       image.csv
+        �   �       reporting.jpg
+        �   �       Sem.xlsx
+        �   �       test.docx
+        �   �       test.pptx
+        �   �       
+        �   +---people
+        �   �       faculty.json
+        �   �       student.json
+        �   �       
+        �   +---projects
+        �   �       pdfTest.pdf
+        �   �       projects.json
+        �   �       
+        �   +---shared
+        �           image.png
+        �           mail_icon.svg
+        �           siteData.json
+        �           
+        +---components
+        �       Footer.css
+        �       Footer.tsx
+        �       Gallery.tsx
+        �       Header.css
+        �       Header.tsx
+        �       ImageSlider.css
+        �       ImageSlider.tsx
+        �       index.ts
+        �       Navbar.css
+        �       Navbar.tsx
+        �       Topbar.tsx
+        �       Weather.css
+        �       Weather.tsx
+        �       
+        +---context
+        �       ThemeContext.tsx
+        �       
+        +---facilities
+        �       Facilities.css
+        �       Facilities.tsx
+        �       FacilityDetail.module.css
+        �       FacilityDetail.tsx
+        �       
+        +---home
+        �       Home.css
+        �       Home.tsx
+        �       News.tsx
+        �       
+        +---people
+        �       People.css
+        �       People.tsx
+        �       PersonDetail.css
+        �       PersonDetail.tsx
+        �       
+        +---project
+        �       Projects.css
+        �       Projects.tsx
+        �       
+        +---structural
+        �       Structural.css
+        �       StructuralFaculty.tsx
+        �       StructuralHome.tsx
+        �       StructuralStudents.tsx
+        �       
+        +---styles
+                variables.css
+                
