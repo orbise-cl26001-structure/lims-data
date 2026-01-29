@@ -7,7 +7,7 @@
         "manufacturer": "NDT Instrument Manufacturer",
         "model": "AE-Monitor-Standard",
         "specifications": {
-            "Frequency Range": "30 kHz – 1 MHz",
+            "Frequency Range": "30 kHz \u00e2\u20ac\u201c 1 MHz",
             "Sensor Type": "Piezoelectric transducers",
             "Channels": "Multi-channel acquisition",
             "Data Output": "Hits, counts, energy, waveform"
@@ -18,7 +18,15 @@
             "Damage progression analysis"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9424.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9425.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9426.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9427.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9428.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9429.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9440.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Equipment Manual",
@@ -34,8 +42,8 @@
         "manufacturer": "Aimil Ltd.",
         "model": "AIM-456",
         "specifications": {
-            "Hammer Weight": "13.5–14.0 kg",
-            "Fall Height": "380 ±5 mm",
+            "Hammer Weight": "13.5\u00e2\u20ac\u201c14.0 kg",
+            "Fall Height": "380 \u00c2\u00b15 mm",
             "Cup Diameter": "102 mm",
             "Cup Depth": "50 mm",
             "Applicable Standard": "IS 2386 (Part IV), BS 812"
@@ -46,7 +54,11 @@
             "Road construction material testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9484.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9485.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9486.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Operating Instructions",
@@ -62,7 +74,7 @@
         "manufacturer": "Matest",
         "model": "E009-KIT Manual Blaine",
         "specifications": {
-            "Cell Diameter": "12.7 ±0.1 mm",
+            "Cell Diameter": "12.7 \u00c2\u00b10.1 mm",
             "Plunger Material": "Stainless steel",
             "Manometer": "Oil-filled U-tube",
             "Standards": "ASTM C204, AASHTO T153"
@@ -73,7 +85,11 @@
             "Quality control of cement"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9490.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9491.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9492.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Equipment Manual",
@@ -89,7 +105,7 @@
         "manufacturer": "Matest",
         "model": "2000 kN Compression Machine",
         "specifications": {
-            "Load Capacity": "1000–3000 kN",
+            "Load Capacity": "1000\u00e2\u20ac\u201c3000 kN",
             "Loading Type": "Hydraulic",
             "Load Display": "Digital / Analog",
             "Platen Material": "Hardened steel"
@@ -100,7 +116,14 @@
             "Construction material quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9431.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9432.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9433.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9434.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9435.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9437.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Equipment Manual",
@@ -116,8 +139,8 @@
         "manufacturer": "Weiss Technik",
         "model": "LabEvent 100L",
         "specifications": {
-            "Temperature Range": "-40°C to +150°C",
-            "Humidity Range": "20%–95% RH",
+            "Temperature Range": "-40\u00c2\u00b0C to +150\u00c2\u00b0C",
+            "Humidity Range": "20%\u00e2\u20ac\u201c95% RH",
             "Control System": "PID digital controller",
             "Interior Material": "Stainless steel",
             "Power Supply": "415V, 3 Phase"
@@ -128,7 +151,11 @@
             "Humidity conditioning"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9496.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9497.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9498.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Equipment Manual",
@@ -156,7 +183,11 @@
             "Quality control of cement and concrete"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9481.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9482.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9483.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Accelerated Curing Tank Manual",
@@ -178,7 +209,7 @@
         "model": "Air Entrainment Meter Type B",
         "specifications": {
             "Method": "Pressure method",
-            "Capacity": "5 dm³, 10 dm³, 100 dm³",
+            "Capacity": "5 dm\u00c2\u00b3, 10 dm\u00c2\u00b3, 100 dm\u00c2\u00b3",
             "Standards": "ASTM C231, IS 1199, IS 9799",
             "Construction": "Aluminum alloy bowl with pressure gauge"
         },
@@ -188,7 +219,11 @@
             "Concrete quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9487.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9488.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9489.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Air Entrainment Meter Manual",
@@ -220,7 +255,11 @@
             "Water absorption testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9493.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9494.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9495.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Buoyancy Balance Manual",
@@ -252,7 +291,11 @@
             "Concrete repair quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9514.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9515.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9516.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Pull-Off Tester Manual",
@@ -274,7 +317,7 @@
         "model": "Resipod Family",
         "specifications": {
             "Measurement": "Concrete electrical resistivity",
-            "Output Units": "kΩ·cm",
+            "Output Units": "k\u00ce\u00a9\u00c2\u00b7cm",
             "Operation": "Four-point Wenner probe",
             "Applications": "Durability and corrosion assessment"
         },
@@ -284,7 +327,11 @@
             "Quality control testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9520.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9521.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9522.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Resipod Manual",
@@ -305,7 +352,7 @@
         "manufacturer": "Aimil Ltd.",
         "model": "AIM-418 Series",
         "specifications": {
-            "Speed": "12000 ± 400 RPM",
+            "Speed": "12000 \u00c2\u00b1 400 RPM",
             "Power Supply": "220V AC",
             "Timer": "Digital timer",
             "Standards": "IS 10080, IS 4031"
@@ -316,7 +363,11 @@
             "Laboratory quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9535.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9536.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9537.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Vibrating Machine Manual",
@@ -348,7 +399,27 @@
             "Uniformity evaluation"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9441.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9442.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9459.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9460.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9461.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9462.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9463.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9464.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9465.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9466.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9467.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9468.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9469.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9470.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9471.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9472.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9473.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9474.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9475.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "UPV Manual",
@@ -381,7 +452,11 @@
             "Quality control at site and lab"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9523.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9524.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9525.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Slump Test Manual",
@@ -408,7 +483,9 @@
             "Structural behavior demonstration"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9418.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Three Hinged Arch Manual",
@@ -421,12 +498,12 @@
         "name": "U-Box Test Apparatus",
         "cover_image": "https://placehold.co/600x400?text=U-Box",
         "description": "U-Box Test Apparatus evaluates the filling and passing ability of self-compacting concrete.",
-        "manufacturer": "HEICO – Hydraulic & Engineering Instruments",
+        "manufacturer": "HEICO \u00e2\u20ac\u201c Hydraulic & Engineering Instruments",
         "model": "U-Box SCC Test",
         "specifications": {
-            "Concrete Volume": "≈ 20 liters",
+            "Concrete Volume": "\u00e2\u2030\u02c6 20 liters",
             "Reinforcement Spacing": "35 mm clear",
-            "Test Output": "Height difference (H1–H2)",
+            "Test Output": "Height difference (H1\u00e2\u20ac\u201cH2)",
             "Application": "Self-compacting concrete testing"
         },
         "functionality": [
@@ -435,7 +512,11 @@
             "Segregation observation"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9526.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9527.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9528.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "U-Box Test Manual",
@@ -451,7 +532,7 @@
         "manufacturer": "Material Testing Equipment Manufacturer",
         "model": "UTM-Hydraulic",
         "specifications": {
-            "Load Capacity": "100 kN – 2000 kN",
+            "Load Capacity": "100 kN \u00e2\u20ac\u201c 2000 kN",
             "Drive Type": "Hydraulic",
             "Control": "Manual / Digital",
             "Tests": "Tension, Compression, Flexure"
@@ -462,7 +543,11 @@
             "Material certification testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9430.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9438.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9439.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "UTM Manual",
@@ -475,7 +560,7 @@
         "name": "Vee-Bee Consistometer",
         "cover_image": "https://placehold.co/600x400?text=Vee-Bee+Consistometer",
         "description": "Vee-Bee Consistometer measures the consistency of stiff concrete by vibration time.",
-        "manufacturer": "HEICO – Hydraulic & Engineering Instruments",
+        "manufacturer": "HEICO \u00e2\u20ac\u201c Hydraulic & Engineering Instruments",
         "model": "HC 37.65",
         "specifications": {
             "Vibration": "Electrically driven table",
@@ -489,7 +574,11 @@
             "Quality control of stiff mixes"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9532.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9533.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9534.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Vee-Bee Consistometer Manual",
@@ -502,10 +591,10 @@
         "name": "V-Funnel Test Apparatus",
         "cover_image": "https://placehold.co/600x400?text=V-Funnel",
         "description": "V-Funnel Test Apparatus determines the flowability of self-compacting concrete by measuring flow time.",
-        "manufacturer": "HEICO – Hydraulic & Engineering Instruments",
+        "manufacturer": "HEICO \u00e2\u20ac\u201c Hydraulic & Engineering Instruments",
         "model": "V-Funnel SCC Test",
         "specifications": {
-            "Concrete Volume": "≈ 12 liters",
+            "Concrete Volume": "\u00e2\u2030\u02c6 12 liters",
             "Measurement": "Flow time in seconds",
             "Max Aggregate Size": "20 mm",
             "Test Variants": "T0 and T5 minutes"
@@ -516,7 +605,11 @@
             "SCC quality assessment"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9529.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9530.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9531.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "V-Funnel Test Manual",
@@ -532,9 +625,9 @@
         "manufacturer": "Aimil Ltd.",
         "model": "AIM-364 / AIM-365 / AIM-366 / AIM-367",
         "specifications": {
-            "Table Size": "500×500 to 1000×2000 mm",
-            "Capacity": "140–500 kg",
-            "Power Supply": "220–230V AC, 1 Phase",
+            "Table Size": "500\u00c3\u2014500 to 1000\u00c3\u20142000 mm",
+            "Capacity": "140\u00e2\u20ac\u201c500 kg",
+            "Power Supply": "220\u00e2\u20ac\u201c230V AC, 1 Phase",
             "Frequency": "50 Hz"
         },
         "functionality": [
@@ -543,7 +636,11 @@
             "Strength test preparation"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9538.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9539.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9540.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Vibrating Table Manual",
@@ -570,7 +667,11 @@
             "Cement quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9541.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9542.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9543.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Vicat Apparatus Manual",
@@ -596,7 +697,11 @@
             "Educational structural testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9423.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9449.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9450.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Column Apparatus Manual",
@@ -622,7 +727,9 @@
             "Educational structural analysis"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9413.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Deflection of Beam Manual",
@@ -649,7 +756,25 @@
             "Dynamic material testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9392.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9393.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9394.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9395.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9396.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9397.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9398.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9400.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9401.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9402.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9403.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9404.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9476.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9477.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9478.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9479.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9480.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Fatigue Testing Machine Manual",
@@ -677,7 +802,11 @@
             "Energy absorption analysis"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9499.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9500.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9501.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Gas Gun Impact Loading Manual",
@@ -693,7 +822,7 @@
         "manufacturer": "Aimil Ltd.",
         "model": "AIM-9874 to AIM-9879",
         "specifications": {
-            "Temperature Range": "Ambient +5°C to 60°C",
+            "Temperature Range": "Ambient +5\u00c2\u00b0C to 60\u00c2\u00b0C",
             "Humidity Range": "50% to 95% RH",
             "Control": "Digital PID Controller",
             "Power": "230V AC, 50 Hz"
@@ -704,7 +833,11 @@
             "Temperature-humidity testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9502.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9503.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9504.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Humidity Chamber Manual",
@@ -714,7 +847,7 @@
     },
     {
         "id": "ids_georadar",
-        "name": "IDS GeoRadar – Stream DP",
+        "name": "IDS GeoRadar \u00e2\u20ac\u201c Stream DP",
         "cover_image": "https://placehold.co/600x400?text=IDS+GeoRadar",
         "description": "Stream DP is a multi-channel 3D Ground Penetrating Radar system used for underground utility mapping and subsurface investigation.",
         "manufacturer": "IDS GeoRadar",
@@ -732,7 +865,14 @@
             "Non-destructive investigation"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9443.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9444.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9445.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9446.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9447.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9448.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "IDS GeoRadar Stream DP Brochure",
@@ -750,8 +890,8 @@
         "specifications": {
             "Sieve Diameter": "200 mm / 300 mm",
             "Motion Type": "Rotary and tapping",
-            "Timer": "0–60 minutes",
-            "Power Supply": "220–240V AC",
+            "Timer": "0\u00e2\u20ac\u201c60 minutes",
+            "Power Supply": "220\u00e2\u20ac\u201c240V AC",
             "Standards": "IS 2386, ASTM C136"
         },
         "functionality": [
@@ -760,7 +900,11 @@
             "Laboratory quality control"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9511.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9512.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9513.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Motorised Sieve Shaker Manual",
@@ -787,7 +931,11 @@
             "Uniformity assessment"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9517.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9518.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9519.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Rebound Hammer Manual",
@@ -813,7 +961,11 @@
             "Structural mechanics experiments"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9419.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9420.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9421.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Instruction Manual",
@@ -839,7 +991,9 @@
             "Structural analysis experiments"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9417.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Instruction Manual",
@@ -866,7 +1020,9 @@
             "Data export and reporting"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9451.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Operating Instructions",
@@ -892,7 +1048,11 @@
             "Structural mechanics experiments"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9409.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9411.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9412.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Instruction Manual",
@@ -918,7 +1078,14 @@
             "Maintenance decision support"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9452.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9453.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9455.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9456.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9457.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9458.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Instruction and Maintenance Manual",
@@ -937,7 +1104,7 @@
             "Dimension": "800 x 200 x 625 mm",
             "Material": "Stainless Steel / Mild Steel",
             "Bar Diameter": "12 mm",
-            "Bar Spacing": "41 ± 1 mm or 59 ± 1 mm",
+            "Bar Spacing": "41 \u00c2\u00b1 1 mm or 59 \u00c2\u00b1 1 mm",
             "Capacity": "~6 Liters"
         },
         "functionality": [
@@ -946,7 +1113,11 @@
             "Blocking ratio measurement"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9505.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9506.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9507.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "L-Box Manual",
@@ -974,7 +1145,11 @@
             "Dynamic load testing"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9508.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9509.JPG?raw=true",
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9510.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Impact Testing Manual",
@@ -1002,7 +1177,9 @@
             "Displacement verification"
         ],
         "research_projects": [],
-        "gallery": [],
+        "gallery": [
+            "https://github.com/orbise-cl26001-structure/lims-data/blob/main/Image/IMG_9422.JPG?raw=true"
+        ],
         "technical_drawings": [
             {
                 "title": "Two Hinged Arch Manual",
